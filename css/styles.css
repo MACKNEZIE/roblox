@@ -1,3 +1,7 @@
 body {
     background-color: red;
 }
+
+nav ul li {
+    text-decoration: none;
+}
