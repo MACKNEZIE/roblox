@@ -3,6 +3,9 @@ body {
 }
 
 li {
-    text-decoration: none;
     display: inline;
+}
+
+ul li {
+    text-decoration: none;
 }
